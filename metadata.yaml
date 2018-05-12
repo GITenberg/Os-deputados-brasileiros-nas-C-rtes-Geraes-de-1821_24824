@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26757'
     url: http://www.gutenberg.org/2009/agents/26757
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24824#Os-deputados-brasileiros-nas-C-rtes-Geraes-de-1821
 gutenberg_bookshelf: PT História
 gutenberg_issued: '2008-03-14'
 gutenberg_type: Text
