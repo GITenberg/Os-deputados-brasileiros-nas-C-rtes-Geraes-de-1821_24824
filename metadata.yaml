@@ -1,0 +1,28 @@
+_repo: Os-deputados-brasileiros-nas-C-rtes-Geraes-de-1821_24824
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carvalho, Manuel Emílio Gomes de
+    alias: Carvalho, Manuel Emilio Gomes de
+    birthdate: 1859
+    deathdate: 1919
+    gutenberg_agent_id: '26757'
+    url: http://www.gutenberg.org/2009/agents/26757
+description: ''
+gutenberg_bookshelf: PT História
+gutenberg_issued: '2008-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24824'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brazil -- History -- 1763-1822'
+- !lcc 'F2201'
+title: Os deputados brasileiros nas Côrtes Geraes de 1821
+url: http://www.gutenberg.org/ebooks/24824
